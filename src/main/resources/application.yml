@@ -1,0 +1,9 @@
+elastic-helper:
+  aws:
+    key: key
+    secret: secret
+  domain:
+    serviceName: es
+    region: region
+    endPoint: endPoint
+    type: _doc
